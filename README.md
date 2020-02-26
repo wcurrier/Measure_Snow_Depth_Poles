@@ -1,5 +1,5 @@
 # Measure_Snow_Depth_Poles
-Measure snow depth from camera images and poles automatically or semi-automatically
+Measure snow depth from camera images and poles automatically or semi-automatically.
 # Atuomated method:
 
 Only works for orange poles.
